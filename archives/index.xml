@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Archives on Excel摆渡人的博客</title>
+    <link>https://excel10000.github.io/archives/</link>
+    <description>Recent content in Archives on Excel摆渡人的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Thu, 28 Oct 2021 21:56:37 +0800</lastBuildDate><atom:link href="https://excel10000.github.io/archives/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Memory</title>
+      <link>https://excel10000.github.io/archives/memory/</link>
+      <pubDate>Thu, 28 Oct 2021 21:56:37 +0800</pubDate>
+      
+      <guid>https://excel10000.github.io/archives/memory/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
